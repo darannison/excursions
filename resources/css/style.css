@@ -1,0 +1,42 @@
+html {
+  background-color: black;
+  justify-it: center;
+  text-align: center;
+  color: white;
+  font-family: verdana, sans-serif;
+}
+
+#main-title {
+  font-family: verdana, sans-serif;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+#download-link a{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.main-body h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.main-body p {
+  font-size: 21px;
+  color: gray;
+}
+
+#img-tent {
+  width: 80%;
+  height:auto;
+}
+#img-cell {
+  width: auto;
+  height:80px;
+}
+
+.footer p {
+  text-align: right;
+  color: gray;
+}
